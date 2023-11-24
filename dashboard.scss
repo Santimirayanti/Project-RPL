@@ -1,0 +1,300 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 128rem;
+}.dashboard-roK {
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+
+  .header-ptZ {
+    padding-right: 5rem;
+    background-color: #164863;
+    flex-shrink: 0;
+    margin-bottom: 0.01rem;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 0.7rem 0.68rem rgba(0, 0, 0, 0.25);
+    width: 100%;
+    height: 9.39rem;
+
+    .auto-group-uwxt-Xpu {
+      margin-right: 3.1rem;
+      box-sizing: border-box;
+      padding: 3.585rem 3.3rem 3.19rem 3.6rem;
+      height: 100%;
+      background-color: #427d9d;
+      flex-shrink: 0;
+
+      .icon-reorder-three-outline-PcD {
+        width: 3.3rem;
+        height: 2.6147rem;
+        cursor: pointer;
+        object-fit: contain;
+        vertical-align: top;
+      }
+    }
+    .cafe-tendabiru-QnD {
+      font-weight: 400;
+      line-height: 1.3;
+      color: #ffffff;
+      font-family: Kufam, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin: 1.722rem 82.5rem 0rem 0rem;
+      font-size: 2.7rem;
+    }
+    .icon-profile-circle-1n1 {
+      width: 4.6rem;
+      height: 4.4249rem;
+      object-fit: contain;
+      vertical-align: top;
+      flex-shrink: 0;
+      margin-bottom: 0.3651rem;
+    }
+  }
+  .auto-group-28dp-ztq {
+    box-sizing: border-box;
+    padding: 3.9rem 12.3rem 4rem 12.3rem;
+    width: 100%;
+    align-items: center;
+    flex-direction: column;
+    background-image: url('REPLACE_IMAGE:99bcb8dc94db8f36dfc255756895ae386da6a6ed');
+    display: flex;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    flex-shrink: 0;
+
+    .summary-fzy {
+      flex-shrink: 0;
+      margin-bottom: 3.9rem;
+      width: 100%;
+      height: 12.4rem;
+      position: relative;
+      background-color: rgba(155, 190, 200, 0.5);
+      border-radius: 1.8rem;
+      box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+
+      .rectangle-9-kFj {
+        height: 5.7rem;
+        position: absolute;
+        left: 2.5rem;
+        top: 3.4rem;
+        box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+        background-color: #ffd47c;
+        border-radius: 1.8rem;
+        width: 19.6rem;
+      }
+      .rectangle-10-NH7 {
+        left: 28.7rem;
+        top: 3.4rem;
+        box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+        background-color: #ff6969;
+        border-radius: 1.8rem;
+        width: 19.6rem;
+        height: 5.7rem;
+        position: absolute;
+      }
+      .rectangle-11-dD3 {
+        box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+        background-color: #c70039;
+        border-radius: 1.8rem;
+        width: 19.6rem;
+        height: 5.7rem;
+        position: absolute;
+        left: 54.9rem;
+        top: 3.4rem;
+      }
+      .rectangle-12-HYV {
+        top: 3.4rem;
+        box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+        background-color: #141e46;
+        border-radius: 1.8rem;
+        width: 19.6rem;
+        height: 5.7rem;
+        position: absolute;
+        left: 81.1rem;
+      }
+      .icon-ingredients-kitchen-9qb {
+        display: flex;
+        column-gap: 22.9rem;
+        align-items: center;
+        width: 83.1rem;
+        height: 3.5073rem;
+        position: absolute;
+        left: 3.7rem;
+        top: 4.4rem;
+
+        .vector-zrD {
+          vertical-align: top;
+          flex-shrink: 0;
+          width: 3.6rem;
+          height: 3.5073rem;
+          object-fit: contain;
+        }
+        .vector-X5T {
+          width: 3.6rem;
+          height: 3.5073rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+        .vector-2nu {
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+          width: 3.6rem;
+          height: 3.5073rem;
+        }
+        .vector-kiu {
+          width: 3.6rem;
+          height: 3.5073rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+      }
+      .total-poducts-gcZ {
+        font-size: 1.5rem;
+        font-weight: 400;
+        line-height: 1.38;
+        white-space: nowrap;
+        width: 9.1rem;
+        height: 2.1rem;
+        position: absolute;
+        font-family: Alata, 'Source Sans Pro';
+        left: 8rem;
+        top: 4.1rem;
+        color: #ffffff;
+      }
+      .item-18-MCu {
+        color: #ffffff;
+        width: 3.2rem;
+        height: 3.1rem;
+        position: absolute;
+        left: 15.1rem;
+        top: 4.7rem;
+        font-size: 2.6rem;
+        font-weight: 400;
+        line-height: 1.1825;
+        font-family: ABeeZee, 'Source Sans Pro';
+        white-space: nowrap;
+      }
+      .item-04-CjK {
+        left: 42.1rem;
+        top: 4.7rem;
+        font-size: 2.6rem;
+        line-height: 1.1825;
+        font-family: ABeeZee, 'Source Sans Pro';
+        width: 3.2rem;
+        height: 3.1rem;
+        position: absolute;
+        white-space: nowrap;
+        font-weight: 400;
+        color: #ffffff;
+      }
+      .item-00-f77 {
+        color: #ffffff;
+        height: 3.1rem;
+        position: absolute;
+        font-weight: 400;
+        line-height: 1.1825;
+        font-family: ABeeZee, 'Source Sans Pro';
+        white-space: nowrap;
+        width: 3.2rem;
+        left: 70.1rem;
+        top: 4.7rem;
+        font-size: 2.6rem;
+      }
+      .item-09-u1T {
+        height: 3.1rem;
+        position: absolute;
+        top: 4.7rem;
+        line-height: 1.1825;
+        font-family: ABeeZee, 'Source Sans Pro';
+        width: 3.2rem;
+        left: 96.1rem;
+        font-size: 2.6rem;
+        font-weight: 400;
+        color: #ffffff;
+        white-space: nowrap;
+      }
+      .low-stock-poducts-Axy {
+        width: 6.6rem;
+        height: 4.2rem;
+        left: 34.5rem;
+        top: 4.1rem;
+        font-size: 1.5rem;
+        font-weight: 400;
+        line-height: 1.38;
+        position: absolute;
+        color: #ffffff;
+        font-family: Alata, 'Source Sans Pro';
+      }
+      .out-of-stock-poducts-TBP {
+        font-weight: 400;
+        line-height: 1.38;
+        color: #ffffff;
+        height: 4.2rem;
+        position: absolute;
+        left: 60.9rem;
+        top: 4.1rem;
+        font-size: 1.5rem;
+        width: 8.8rem;
+        font-family: Alata, 'Source Sans Pro';
+      }
+      .most-stock-poducts-MXf {
+        position: absolute;
+        height: 4.2rem;
+        left: 87.1rem;
+        top: 4.1rem;
+        font-size: 1.5rem;
+        font-weight: 400;
+        line-height: 1.38;
+        color: #ffffff;
+        width: 7.4rem;
+        font-family: Alata, 'Source Sans Pro';
+      }
+    }
+    .auto-group-4tqm-CoB {
+      display: flex;
+      align-items: flex-start;
+      flex-shrink: 0;
+      width: 100%;
+
+      .rectangle-13-8wj {
+        flex-shrink: 0;
+        margin-right: 6.7rem;
+        width: 52.3rem;
+        height: 49.6rem;
+        background-color: rgba(155, 190, 200, 0.5);
+        border-radius: 1.3rem;
+      }
+      .rectangle-14-3oo {
+        height: 25.3rem;
+        background-color: rgba(155, 190, 200, 0.5);
+        border-radius: 1.3rem;
+        flex-shrink: 0;
+        width: 44.4rem;
+      }
+    }
+  }
+}
